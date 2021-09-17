@@ -1,0 +1,16 @@
+C:\Projetos\Banco\bin\Debug\net5.0\Banco.exe
+C:\Projetos\Banco\bin\Debug\net5.0\Banco.deps.json
+C:\Projetos\Banco\bin\Debug\net5.0\Banco.runtimeconfig.json
+C:\Projetos\Banco\bin\Debug\net5.0\Banco.runtimeconfig.dev.json
+C:\Projetos\Banco\bin\Debug\net5.0\Banco.dll
+C:\Projetos\Banco\bin\Debug\net5.0\ref\Banco.dll
+C:\Projetos\Banco\bin\Debug\net5.0\Banco.pdb
+C:\Projetos\Banco\obj\Debug\net5.0\Banco.csproj.AssemblyReference.cache
+C:\Projetos\Banco\obj\Debug\net5.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Banco\obj\Debug\net5.0\Banco.AssemblyInfoInputs.cache
+C:\Projetos\Banco\obj\Debug\net5.0\Banco.AssemblyInfo.cs
+C:\Projetos\Banco\obj\Debug\net5.0\Banco.csproj.CoreCompileInputs.cache
+C:\Projetos\Banco\obj\Debug\net5.0\Banco.dll
+C:\Projetos\Banco\obj\Debug\net5.0\ref\Banco.dll
+C:\Projetos\Banco\obj\Debug\net5.0\Banco.pdb
+C:\Projetos\Banco\obj\Debug\net5.0\Banco.genruntimeconfig.cache
